@@ -17,5 +17,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ajunflying/dateoperate/issues"
-  }
+  },
+  "readmeFilename": "README.md"
 }
